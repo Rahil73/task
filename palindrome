@@ -6,3 +6,4 @@ if ans:
   print('yes')
 else:
   print('no')
+#it's fine
