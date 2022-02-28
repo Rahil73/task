@@ -1,6 +1,6 @@
 def palindrome(r):
     return r==r[::-1]
-r='ese'
+r=int(input())
 ans=palindrome(r)
 if ans:
   print('yes')
